@@ -58,7 +58,7 @@ int main(int argc, char *argv[]) {
         fflush(stdout);
         mySwitch.resetAvailable();
       }
-      usleep(100); 
+      // usleep(100); 
   
   }
 
