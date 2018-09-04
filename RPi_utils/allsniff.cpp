@@ -52,7 +52,7 @@ int main(int argc, char *argv[]) {
           printf("Received protoc %i\n",  mySwitch.getReceivedProtocol() );
           printf("Received delayy %i\n",  mySwitch.getReceivedDelay() );
           printf("Received valuee %i\n",  mySwitch.getReceivedValue() );
-          printf("------------------------------------------------------ %i\n",  );
+          printf("------------------------------------------------------ %i\n" );
         }
     
         fflush(stdout);
